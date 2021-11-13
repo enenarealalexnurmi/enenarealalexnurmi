@@ -5,6 +5,6 @@ I have experience in QA and participation in hackathons.
 
 I currently devote most of my time to my studies and a few pet projects.
 You can contact me as follows:
-![TLG](https://free-png.ru/wp-content/uploads/2021/01/telegram_cvet-d23c11fa.png)
+![telegram](https://user-images.githubusercontent.com/63079050/141651177-6f949cbf-eb36-49c6-b78d-297d8f12bead.png)
 
 [![ecole 42/21 shool](https://badge42.herokuapp.com/api/stats/enena)]()
