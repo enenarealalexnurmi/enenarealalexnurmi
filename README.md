@@ -1,12 +1,12 @@
-Hello, my name is Alexey Shishkunov.
+Hello, my name is Mr. Mraz.
 
-This is my repository for learning programming.
+This is my repository for doing nothing.
 
 I am interested in C / C ++ / C #
 
-I have experience in QA and participation in hackathons.
+I have experience in QA and failing in hackathons.
 
-I currently devote most of my time to my studies and a few pet projects.
+I currently devote most of my time to my studies and a few pets.
 
 You can contact me as follows:
 
