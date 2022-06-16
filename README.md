@@ -14,4 +14,4 @@ You can contact me as follows:
 [![VK](https://user-images.githubusercontent.com/63079050/141651530-c83d1732-fa0b-40bf-9caf-b88b04247de0.png)](https://vk.com/realalexnurmi)
 [![GMAIL](https://user-images.githubusercontent.com/63079050/141651563-f7d8a046-7a1a-4280-b988-5025467927d2.png)](mailto:realalexnurmi@gmail.com)
 
-![ecole 42/21 shool](https://badge42.herokuapp.com/api/stats/enena)
+[![enena's 42 stats](https://badge42.vercel.app/api/v2/cl4gx4ec4010809l1r1dxhmnr/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
